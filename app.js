@@ -6,11 +6,11 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 956,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Untitled Dice',
+  app_name: 'The Dice Test',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '1210c682-3e38-4c78-a83b-653464779529',  // <----- EDIT ME!
-  redirect_uri: 'http://morantis.x10host.com/',
+  //redirect_uri: 'http://morantis.x10host.com/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
